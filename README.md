@@ -1,3 +1,3 @@
-# aero-prac
+# AERO-PRAC
 Learning GitHub for Aerospace
 
